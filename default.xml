@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp" fetch=".." review="http://gerrit.async.com.br/" />
+  <default revision="master" remote="aosp" sync-j="1" />
+
+  <project path="stoqdrivers" name="stoqdrivers" />
+  <project path="kiwi" name="kiwi" />
+
+</manifest>
+
