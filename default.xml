@@ -4,6 +4,7 @@
   <remote  name="aosp" fetch=".." review="http://gerrit.async.com.br/" />
   <default revision="master" remote="aosp" sync-j="1" />
 
+  <project path="stoq" name="stoq-test" />
   <project path="stoqdrivers" name="stoqdrivers" />
   <project path="kiwi" name="kiwi" />
 
