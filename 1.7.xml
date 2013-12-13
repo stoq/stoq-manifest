@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin" fetch=".." review="http://gerrit.async.com.br/" />
+  <default revision="master" remote="origin" sync-j="1" />
+
+  <!--stoq 1.7.2-->
+  <project path="stoq" name="stoq" revision="e85893b732236a5c0c396f7010adc403f79ec4c1" />
+  <!--stoqdrivers 0.9.20-->
+  <project path="stoqdrivers" name="stoqdrivers" revision="4752e8b21c31a613a8095c8b22f654629fa506dd" />
+  <!--kiwi 1.9.38-->
+  <project path="kiwi" name="kiwi" revision="a4ff16a7a5b040e9df5a765cc2940bcced04bd3d" />
+
+</manifest>
+
