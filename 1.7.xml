@@ -3,10 +3,10 @@
 
   <remote  name="origin" fetch="git://github.com/stoq/"
            review="http://gerrit.async.com.br/" />
-  <default revision="master" remote="origin" sync-j="1" />
+  <default revision="master" remote="origin" sync-j="4" />
 
-  <!--stoq 1.7.2-->
-  <project path="stoq" name="stoq" revision="e85893b732236a5c0c396f7010adc403f79ec4c1" />
+  <!--stoq 1.7.3-->
+  <project path="stoq" name="stoq" revision="179d5e1fc4b55ee9b1d23675f659ecd6bf5e6008" />
   <!--stoqdrivers 0.9.20-->
   <project path="stoqdrivers" name="stoqdrivers" revision="4752e8b21c31a613a8095c8b22f654629fa506dd" />
   <!--kiwi 1.9.38-->
