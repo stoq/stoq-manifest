@@ -6,7 +6,7 @@
   <default revision="master" remote="origin" sync-j="4" />
 
   <!--stoq 1.7.3-->
-  <project path="stoq" name="stoq" revision="e33859e31d1fb2b1171f0f6345b95d5c534d65d1" />
+  <project path="stoq" name="stoq" revision="4387e9993296ee61e475d284cb2c44786e2b3df2" />
   <!--stoqdrivers 0.9.20-->
   <project path="stoqdrivers" name="stoqdrivers" revision="4752e8b21c31a613a8095c8b22f654629fa506dd" />
   <!--kiwi 1.9.38-->
