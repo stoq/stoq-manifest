@@ -6,11 +6,8 @@
   <default revision="master" remote="origin" sync-j="4" />
 
   <project path="stoq" name="stoq" />
-  <project path="stoq/utils" name="stoq-utils" />
   <project path="stoqdrivers" name="stoqdrivers" />
-  <project path="stoqdrivers/utils" name="stoq-utils" />
   <project path="kiwi" name="kiwi" />
-  <project path="kiwi/utils" name="stoq-utils" />
 
 </manifest>
 
