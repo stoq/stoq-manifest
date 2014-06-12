@@ -6,11 +6,11 @@
   <default revision="master" remote="origin" sync-j="4" />
 
   <!--stoq 1.8rc3-->
-  <project path="stoq" name="stoq" revision="3b0b959a9dd781b0a8b638d0e5302f6ccd68d8e3" />
+  <project path="stoq" name="stoq" revision="19f75820ec74b5e46da022a8ddfcbf7462acd857" />
   <!--stoqdrivers 0.9.21.1-->
   <project path="stoqdrivers" name="stoqdrivers" revision="170b70cf44c018959876b546759e5c30957550a9" />
   <!--kiwi 1.9.39.2-->
-  <project path="kiwi" name="kiwi" revision="0b691345f2002c3a40b2d86347a0e4d49699660e" />
+  <project path="kiwi" name="kiwi" revision="9b08dee58f2dcf78ac5517e8bdf04d69583c4ca1" />
 
 </manifest>
 
