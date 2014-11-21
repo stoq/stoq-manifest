@@ -5,8 +5,8 @@
            review="http://gerrit.async.com.br/" />
   <default revision="master" remote="origin" sync-j="4" />
 
-  <!--stoq 1.8rc6-->
-  <project path="stoq" name="stoq" revision="29e45a7eff144af6b68b0c34eb05eab4fff367cb" />
+  <!--stoq 1.8-->
+  <project path="stoq" name="stoq" revision="780c53a660258e34f2352e2bb6b05345a9259523" />
   <!--stoqdrivers 0.9.21.1-->
   <project path="stoqdrivers" name="stoqdrivers" revision="170b70cf44c018959876b546759e5c30957550a9" />
   <!--kiwi 1.9.39.2-->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin" fetch="git://github.com/stoq/"
+           review="http://gerrit.async.com.br/" />
+  <default revision="master" remote="origin" sync-j="4" />
+
+  <!--stoq 1.9rc2-->
+  <project path="stoq" name="stoq" revision="f74f8a8e9003d1a5451fc3dc682b0ee7c30717b4" />
+  <!--stoqdrivers 0.9.22-->
+  <project path="stoqdrivers" name="stoqdrivers" revision="60e3d51f5d1bc34b8cf7df6b381019d927a44fa9" />
+  <!--kiwi 1.9.40-->
+  <project path="kiwi" name="kiwi" revision="76e7a25a0a6775524726a003535e93fd6baf56eb" />
+
+</manifest>
+
